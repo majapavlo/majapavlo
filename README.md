@@ -1,5 +1,6 @@
-- Hi, I’m @ma-pavlo 👋
+Hi, I’m Maja 👋
 
+I'm interested in applied deep learning 🎢
 
 
 <!---
