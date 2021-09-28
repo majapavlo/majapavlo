@@ -1,4 +1,4 @@
-Hi, I’m Maja 👋
+Hi 👋
 
 I'm interested in applied deep learning 🎢
 
