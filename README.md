@@ -1,9 +1,9 @@
 Hi 👋
 
-I'm interested in applied deep learning 🎢
 
 
 <!---
+- I'm interested in applied deep learning 🎢
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
