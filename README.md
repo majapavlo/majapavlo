@@ -1,4 +1,4 @@
-Hi welcome to my tiny Github world 👋
+👋 Welcome to my tiny Github-🌍
 
 - I am a Data Scientist with a super big interest in applied deep learning 🎢 
   - I blame and thank my first data science job for letting me to play around with them! :heart:
