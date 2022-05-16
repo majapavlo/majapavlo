@@ -1,7 +1,7 @@
 👋 Welcome to my tiny Github-🌍
 
 - I am a Data Scientist with a super big interest in applied deep learning 🎢 
-  - I blame and thank my first data science job for letting me to play around with them! :heart:
+  - I blame and thank my first data science job for letting me play around with them! :heart:
 - I've recently started writing on [Medium](https://medium.com/@majapavlo)
 - Also checkout [The Book of Statistical Proofs](https://statproofbook.github.io/P/norm-cdf) for a 🔥 proof collection and contribute if you can! 👀
 
