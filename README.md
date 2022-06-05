@@ -5,7 +5,8 @@
 - I've recently started writing on [Medium](https://medium.com/@majapavlo)
 - Also checkout [The Book of Statistical Proofs](https://statproofbook.github.io/P/norm-cdf) for a 🔥 proof collection and contribute if you can! 👀
 
-[<img align="left" width="390" alt="🌱" src="https://github.com/majapavlo/majapavlo/blob/47e52ed810b9cbb9dd881e1dd3360e9b3448c60e/achievements.svg">](#)
+[<img align="left" width="390" alt="🌱" src="https://github.com/majapavlo/majapavlo/blob/e84ebcb207eb5829958d13c6051398518381451b/achievements.svg">](#)
+[<img align="right" width="150" alt="🌱" src="https://github.com/majapavlo/majapavlo/blob/e84ebcb207eb5829958d13c6051398518381451b/metrics.plugin.topics.icons.svg">](#)
 
 
 <!---
