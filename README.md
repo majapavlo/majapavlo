@@ -5,6 +5,8 @@
 - I've recently started writing on [Medium](https://medium.com/@majapavlo)
 - Also checkout [The Book of Statistical Proofs](https://statproofbook.github.io/P/norm-cdf) for a 🔥 proof collection and contribute if you can! 👀
 
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/majapavlo/majapavlo/blob/main/achievements.svg">](#)
+<!-- https://github.com/majapavlo/majapavlo/blob/main/achievements.svg -->
 
 <!---
 - I'm interested in applied deep learning 🎢
