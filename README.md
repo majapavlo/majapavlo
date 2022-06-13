@@ -29,9 +29,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maja-pavlovic) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@majapavlo) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=majapavlo&icon=5&color=12)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=majapavlo&icon=5&color=12)](https://visitcount.itsvg.in) -->
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=majapavlo&label=&color=12&icon=5&pretty=true" />
+</a>
 
 <!-- Mithilfe von https://gprm.itsvg.in/ erstellt -->
 
