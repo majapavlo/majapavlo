@@ -31,7 +31,7 @@
 
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maja-pavlovic) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@majapavlo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maja-pavlovic) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@majapavlo) [![Blog](https://img.shields.io/badge/blogger-ff69b4.svg?logo=blogger&logoColor=white)](https://majapavlo.github.io/blog/) 
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=majapavlo&icon=5&color=12)](https://visitcount.itsvg.in) -->
