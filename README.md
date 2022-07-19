@@ -9,6 +9,12 @@
 <!-- <img align="left" width="390" alt="🌱" src="https://github.com/majapavlo/majapavlo/blob/main/achievements.svg"> -->
 <!-- <img align="left" width="400" alt="💞️" src="https://github.com/majapavlo/majapavlo/blob/main/metrics.plugin.topics.icons.svg"> -->
 
+### 🌐 Socials
+<!-- https://shields.io/ -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maja-pavlovic) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@majapavlo) [![Rss](https://img.shields.io/badge/rss-ff69b4?style=flat&logo=rss&logoColor=white)](https://majapavlo.github.io/blog/) <!-- https://majapavlo.github.io/blog/feed.xml -->
+<!--[![Blog](https://img.shields.io/badge/blogger-ff69b4.svg?logo=blogger&logoColor=white)](https://majapavlo.github.io/blog/) -->
+
+
 ### 💻 Tech Stack
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
@@ -32,11 +38,6 @@
 <!-- ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=majapavlo&theme=dracula&no-frame=true&no-bg=true&margin-w=4) -->
 
-
-### 🌐 Socials
-<!-- https://shields.io/ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maja-pavlovic) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@majapavlo) [![Rss](https://img.shields.io/badge/rss-ff69b4?style=flat&logo=rss&logoColor=white)](https://majapavlo.github.io/blog/) <!-- https://majapavlo.github.io/blog/feed.xml -->
-<!--[![Blog](https://img.shields.io/badge/blogger-ff69b4.svg?logo=blogger&logoColor=white)](https://majapavlo.github.io/blog/) -->
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=majapavlo&icon=5&color=12)](https://visitcount.itsvg.in) -->
