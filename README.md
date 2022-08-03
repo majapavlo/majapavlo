@@ -45,8 +45,8 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=majapavlo&label=&color=12&icon=5&pretty=true" />
 </a>
-
-![profile views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=majapavlo.majapavlo&lcolor=262626&color=ebe6e6)
+<!-- 
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=majapavlo.majapavlo&lcolor=262626&color=fcfafa&text=ProfileViews&cache=on) -->
 
 <!-- Mithilfe von https://gprm.itsvg.in/ erstellt -->
 
