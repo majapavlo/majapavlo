@@ -1,9 +1,9 @@
 ### 👋 Welcome to my corner of Github
 
-- I am a Data Scientist with a super big interest in applied deep learning 🎢 
-  - I blame and thank my first data science job for letting me play around with them! :heart:
+<!-- - I am a Data Scientist with a super big interest in applied deep learning 🎢 
+  - I blame and thank my first data science job for letting me play around with them! :heart: -->
 - I've recently started writing on [Medium](https://medium.com/@majapavlo)
-- Also checkout [The Book of Statistical Proofs](https://statproofbook.github.io/I/ToC) for a 🔥 proof collection and contribute! 👀
+- Also have a look at [The Book of Statistical Proofs](https://statproofbook.github.io/I/ToC) and contribute! 👀
 
 <!-- update permalink when wanting to change the svg displays (not using permalinks anymore now!) -->
 <!-- <img align="left" width="390" alt="🌱" src="https://github.com/majapavlo/majapavlo/blob/main/achievements.svg"> -->
