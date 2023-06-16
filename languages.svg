@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 171kb of code in 57 edited files across 11 commits</small>
+                <small>estimation from 172kb of code in 59 edited files across 12 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.4414429672284" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="263.4414429672284" y="0" width="116.27572190702006" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="379.71716487424845" y="0" width="80.28283512575155" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.9696506293377" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="277.9696506293377" y="0" width="107.68144924126572" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="385.6510998706035" y="0" width="74.34890012939654" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>57.27%</div>
+                                <div>60.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,7 +47,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>17.45%</div>
+                                <div>16.16%</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +60,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>25.28%</div>
+                                <div>23.41%</div>
                             </small>
                         </div>
                     </section>
