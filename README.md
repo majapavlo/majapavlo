@@ -1,17 +1,19 @@
-### 👋 Welcome to my corner of Github
+### 👋 
+<!-- Welcome to my corner of Github -->
 
-<!-- - I am a Data Scientist with a super big interest in applied deep learning 🎢 
-  - I blame and thank my first data science job for letting me play around with them! :heart: -->
-- I've recently started writing on [Medium](https://medium.com/@majapavlo)
-- Also have a look at [The Book of Statistical Proofs](https://statproofbook.github.io/I/ToC) and contribute! 👀
+---
+
+
+<!--  I've recently started writing on [Medium](https://medium.com/@majapavlo) -->
+<!-- - Also have a look at [The Book of Statistical Proofs](https://statproofbook.github.io/I/ToC) and contribute! 👀 -->
 
 <!-- update permalink when wanting to change the svg displays (not using permalinks anymore now!) -->
 <!-- <img align="left" width="390" alt="🌱" src="https://github.com/majapavlo/majapavlo/blob/main/achievements.svg"> -->
 <!-- <img align="left" width="400" alt="💞️" src="https://github.com/majapavlo/majapavlo/blob/main/metrics.plugin.topics.icons.svg"> -->
 
-### 🌐 Socials
+<!-- ### 🌐 Socials  -->
 <!-- https://shields.io/ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maja-pavlovic) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@majapavlo) [![Rss](https://img.shields.io/badge/rss-ff69b4?style=flat&logo=rss&logoColor=white)](https://majapavlo.github.io/blog/) <!-- https://majapavlo.github.io/blog/feed.xml -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maja-pavlovic) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@majapavlo) [![Rss](https://img.shields.io/badge/rss-ff69b4?style=flat&logo=rss&logoColor=white)](https://majapavlo.github.io/blog/)  --> <!-- https://majapavlo.github.io/blog/feed.xml -->
 <!--[![Blog](https://img.shields.io/badge/blogger-ff69b4.svg?logo=blogger&logoColor=white)](https://majapavlo.github.io/blog/) -->
 
 
