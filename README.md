@@ -41,16 +41,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=majapavlo&theme=dracula&no-frame=true&no-bg=true&margin-w=4) -->
 
 
----
-<!-- [![](https://visitcount.itsvg.in/api?id=majapavlo&icon=5&color=12)](https://visitcount.itsvg.in) -->
 
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=majapavlo&label=&color=12&icon=5&pretty=true" />
-</a>
-
-<!-- ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=majapavlo.majapavlo&lcolor=262626&color=fcfafa&text=Visitors&cache=on) 
- -->
-<!-- Mithilfe von https://gprm.itsvg.in/ erstellt -->
 
 <!---
 - I'm interested in applied deep learning 🎢
